@@ -2,15 +2,15 @@
   height: 100vh;
   display: flex;
   color: white;
-  background-color: #020230;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0), #020230),
+  background-color: #0b4935;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0), #0b4935),
     url("https://media.licdn.cn/dms/image/C511BAQG9QpKVK0Ir4A/company-background_10000/0/1566730905916?e=2159024400&v=beta&t=ZsRbl6ZAIT5oqJMkPxkpzOX2XJ_MhdaHErB7xKBFn1M") center;
   background-size: cover;
 }
 
 .main {
   width: 75%;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0), #020230),
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0), #0b4935),
     url("https://media.licdn.cn/dms/image/C511BAQG9QpKVK0Ir4A/company-background_10000/0/1566730905916?e=2159024400&v=beta&t=ZsRbl6ZAIT5oqJMkPxkpzOX2XJ_MhdaHErB7xKBFn1M") center;
   background-size: cover;
   display: flex;
@@ -19,7 +19,7 @@
 
 .pyramid {
   width: 25%;
-  background-color: #020230;
+  background-color: #36266b;
   display: flex;
   align-items: center;
   justify-content: center;
